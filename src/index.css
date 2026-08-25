@@ -1,0 +1,5 @@
+/* Base global: se eliminan los estilos de ejemplo de Vite para que no alteren el diseño. */
+html { background: #f7fafb; }
+body { margin: 0; min-width: 320px; }
+#root { min-height: 100vh; }
+
